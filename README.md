@@ -5,9 +5,9 @@
 
 ## Установка
 1. Склонируйте репозиторий:
-   git clone https://github.com/MorozGH/docker1.git
+    git clone https://github.com/MorozGH/docker1.git
 
-2. Перейдите в папку проекта
+2. Перейдите в папку проекта:
    cd docker1
 
 ## Запуск локально
